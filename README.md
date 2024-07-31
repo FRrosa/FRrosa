@@ -6,4 +6,4 @@ Meu nome é Fabio Rosa
 
  - Utilizo esse espaço para minha organização e compartilhamento dos nossos projetos
 
- ![] (https://tenor.com/pt-BR/view/grading-papers-sheldon-cooper-gif-23332982)
+ ![](https://tenor.com/pt-BR/view/grading-papers-sheldon-cooper-gif-23332982)
